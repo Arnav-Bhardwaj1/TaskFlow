@@ -1,6 +1,6 @@
 # TaskFlow - Task Management Web App
 
-A modern, responsive task management web app built with React frontend and Node.js backend, featuring secure authentication, real-time task updates, and a powerful dashboard for productivity insights.
+TaskFlow helps users organize work with secure sign-in, task creation/editing, powerful filtering and sorting, and priority & deadline tracking. Built with React on the frontend and Node/Express + MongoDB on the backend, it includes analytics to surface actionable insights and supports real-time UI updates for instant feedback.
 
 ## Features
 
